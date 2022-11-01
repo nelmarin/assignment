@@ -1,5 +1,5 @@
 A project about Metagenomics
 Sequencing technique: Illumina
 Samples: human skin
-Approach: whole-genome
-Most abundant species: Corynebacterium
+Approach: 16S rRNA
+Most abundant species: Propionibacterium acnes
