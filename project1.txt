@@ -2,3 +2,4 @@ A project about Metagenomics
 Sequencing technique: Illumina
 Samples: human skin
 Approach: 16S rRNA
+Most abundant species: Propionibacterium acnes
